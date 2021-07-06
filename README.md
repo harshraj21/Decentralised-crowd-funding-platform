@@ -15,11 +15,8 @@
 #### Basic step to fund in a project using UI-
 ```
 1. the user can visit in our website using the link http://hackbout-xyz.stackstaging.com/.
-
 2. User need to register his identity using our Register Option.
-
 3. Once The User Register His Email He or she will be eligible for funding or starting campaign.
-
 4. The Medium of transaction for a backer is ethereum.
 ```
 
