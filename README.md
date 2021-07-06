@@ -10,8 +10,13 @@
 
 **Contract Address** = 0x3872be0a926b55e7d2c186f2cde19824a51f4633 on Rinkeby Test Network
 
-> Tools & Technologies- -Ethereum Network -Solidity -Javascript -web3 -mySQL
-
+**Tools & Technologies-** 
+```
+- Ethereum Network 
+- Solidity 
+- Javascript 
+- web3
+```
 
 #### Basic step to fund in a project using UI-
 ```
